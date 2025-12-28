@@ -136,3 +136,8 @@ Cómo se identifican y gestionan los servicios en red
 Cómo funciona realmente la resolución de nombres DNS
 
 Estos conceptos son fundamentales para networking avanzado, DevOps y telecomunicaciones, y constituyen una base sólida para continuar con el roadmap de aprendizaje.
+
+## Extended Notes (Notion)
+This section contains deeper explanations, personal reflections and expanded theory related to this lab.
+
+👉 https://www.notion.so/D-a-2-Interfaces-de-redes-2d5e10fabb28806b95f1d151365d3842?source=copy_link

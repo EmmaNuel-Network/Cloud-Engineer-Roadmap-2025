@@ -58,3 +58,8 @@ Mediante el comando `ip neigh`, se identificaron los siguientes nodos en el segm
 **Elaborado por:** [Tu Nombre/Usuario de GitHub]  
 **Fecha:** 28 de diciembre de 2025  
 **Contexto:** Formación en Ingeniería de Teleco / Roadmap DevOps
+
+
+## Extended Notes (Notion)
+Additional theory, mental models, and personal annotations are documented in Notion:
+👉 https://www.notion.so/D-a-3-Linux-Networking-Hands-On-2d7e10fabb2880368b3aeef3b38c1f8f?source=copy_link
